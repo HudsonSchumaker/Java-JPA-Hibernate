@@ -30,6 +30,5 @@ public class MovimentacaoDao {
         query.setParameter("pTipo", tipoMovimentacao);
 
         return query.getResultList();
-
     }
 }
