@@ -1,3 +1,3 @@
-# Java-JPA-Hibernate 
-JPA, Hibernate, EntityManager, JPQL...      
-  
+# Java-JPA-Hibernate
+JPA, Hibernate, EntityManager, JPQL...
+
