@@ -30,7 +30,6 @@ public class TesteFuncaoJPQL {
         for (Double media : medias) {
             System.out.println("A média é: " + media);
         }
-
     }
 
 }
