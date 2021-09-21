@@ -25,7 +25,7 @@ public class PopulaConta {
         conta1.setNumero("16987-8");
         conta1.setAgencia("6543");
 
-        conta2.setBanco("237 - BANCO BRADESCO");
+        conta2.setBanco("237 - BANCO FRATESCO");
         conta2.setNumero("86759-1");
         conta2.setAgencia("1745");
 
