@@ -21,7 +21,7 @@ public class PopulaConta {
         Conta conta4 = new Conta();
         Conta conta5 = new Conta();
 
-        conta1.setBanco("001 - BANCO DO BRASIL");
+        conta1.setBanco("001 - BANCO GERAL");
         conta1.setNumero("16987-8");
         conta1.setAgencia("6543");
 
