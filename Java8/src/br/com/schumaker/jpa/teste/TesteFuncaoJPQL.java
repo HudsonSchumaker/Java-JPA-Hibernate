@@ -31,6 +31,5 @@ public class TesteFuncaoJPQL {
             System.out.println("A média é: " + media);
         }
     }
-
 }
 
