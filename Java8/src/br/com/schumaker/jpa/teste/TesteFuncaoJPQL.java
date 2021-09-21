@@ -12,6 +12,7 @@ import java.util.List;
  * @author Hudson Schumaker
  */
 public class TesteFuncaoJPQL {
+    
     public static void main(String[] args) {
 
         EntityManager manager = new JPAUtil().getEntityManager();
