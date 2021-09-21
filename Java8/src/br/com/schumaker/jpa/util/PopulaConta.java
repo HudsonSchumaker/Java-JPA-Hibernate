@@ -37,7 +37,7 @@ public class PopulaConta {
         conta4.setNumero("12345-6");
         conta4.setAgencia("9876");
 
-        conta5.setBanco("104 - CAIXA ECONOMICA FEDERAL");
+        conta5.setBanco("104 - ECONOMICA CONTINENTAL");
         conta5.setNumero("98654-3");
         conta5.setAgencia("1234");
 
