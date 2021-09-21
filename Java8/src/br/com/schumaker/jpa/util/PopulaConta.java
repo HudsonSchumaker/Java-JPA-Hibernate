@@ -29,7 +29,7 @@ public class PopulaConta {
         conta2.setNumero("86759-1");
         conta2.setAgencia("1745");
 
-        conta3.setBanco("341 - BANCO ITAU UNIBANCO");
+        conta3.setBanco("341 - BANCO ITEU MULTBANCO");
         conta3.setNumero("46346-3");
         conta3.setAgencia("4606");
 
